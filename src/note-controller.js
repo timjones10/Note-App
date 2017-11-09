@@ -1,3 +1,7 @@
-window.onload = function() {
-document.getElementById("app").innerHTML = "howdy";
+(function(exports){
+
+exports.NoteController = function() {
+
 };
+
+})(this);
